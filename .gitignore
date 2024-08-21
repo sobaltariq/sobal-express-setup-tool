@@ -1,0 +1,24 @@
+# Node modules
+/node_modules
+
+# Log files
+*.log
+
+# Temporary files
+*.tmp
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Build output
+dist/
+build/
+
+# Package lock
+package-lock.json
+
+# Debugging
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
