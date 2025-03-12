@@ -1,6 +1,6 @@
 {
   "name": "sobal-express-setup-tool",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "A custom project template",
   "bin": {
     "sobal-express-setup-tool": "./bin/template-cli.js"
